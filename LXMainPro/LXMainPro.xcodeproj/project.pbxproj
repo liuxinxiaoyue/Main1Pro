@@ -84,6 +84,7 @@
 		84385A2C2431954800AFE8D3 /* LXMainPro */ = {
 			isa = PBXGroup;
 			children = (
+				84385A872431964800AFE8D3 /* myTool */,
 				84385A2D2431954800AFE8D3 /* AppDelegate.h */,
 				84385A2E2431954800AFE8D3 /* AppDelegate.m */,
 				84385A302431954800AFE8D3 /* SceneDelegate.h */,
@@ -106,6 +107,13 @@
 				84385A4B2431954B00AFE8D3 /* Info.plist */,
 			);
 			path = LXMainProUITests;
+			sourceTree = "<group>";
+		};
+		84385A872431964800AFE8D3 /* myTool */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = myTool;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
